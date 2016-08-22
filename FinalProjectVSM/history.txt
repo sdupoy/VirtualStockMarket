@@ -1,0 +1,6 @@
+Purchase transaction by 1324: Monday, April 18, 2016 regarding edf, 1 shares ($ 441 per share), for a total of $ 485.100006.
+Sale transaction by 1324: Monday, April 18, 2016 regarding adr, 20 shares ($ 20.3 per share), for a total of $ 365.399994.
+Sale transaction by 2222: Monday, April 18, 2016 regarding Aapl, 200 shares ($ 108 per share), for a total of $ 19440.000000.
+Purchase transaction by 3333: Monday, April 18, 2016 regarding ibm, 300 shares ($ 139 per share), for a total of $ 45870.000000.
+Sale transaction by 1324: Monday, April 18, 2016 regarding Aapl, 200 shares ($ 108.00 per share), for a total of $ 19440.000000.
+Purchase transaction by 1324: Monday, April 18, 2016 regarding IBM, 300 shares ($ 139 per share), for a total of $ 45870.000000.
