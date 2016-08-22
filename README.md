@@ -22,3 +22,11 @@ The user will require an input file that is to be updated to an output file that
 Test data: for selling stock: balance $6000, selling 200 shares of Apple Stock (Aapl) at $108 per share, total revenue = 200 x 108 =$21600, brokerage fee = 0.10*21600 = $2160, net revenue = 21600-2160=$19440
 Test data: for buying stock: balance $6000, buying 300 shares of IBM (IBM) at $139 per share, total cost = 300 x 139 =$41700, brokerage fee = 0.10*41700 = $4170, total cost = 41700 + 4170 =$45870
 
+Data set for using the app
+PIN number        Amount
+1324              -8806.2
+1563              4999.00
+2222              25440
+3333              -39870
+4444              6000.00
+5555              6000.00
