@@ -1,7 +1,6 @@
 # VirtualStockMarket
 Virtual Stock Market in C++ using Windows Forms
 
-About the project
 Purpose and Scope
 This project is the final project of the ITMD 512 course of IIT. 
 The project is about designing and implementing a virtual stock market. 
@@ -23,10 +22,10 @@ Test data: for selling stock: balance $6000, selling 200 shares of Apple Stock (
 Test data: for buying stock: balance $6000, buying 300 shares of IBM (IBM) at $139 per share, total cost = 300 x 139 =$41700, brokerage fee = 0.10*41700 = $4170, total cost = 41700 + 4170 =$45870
 
 Data set for using the app
-PIN number        Amount
-1324              -8806.2
-1563              4999.00
-2222              25440
-3333              -39870
-4444              6000.00
-5555              6000.00
+PIN number and amount<br>
+1324 with $ -8,806.20<br>
+1563 with $ 4,999.00<br>
+2222 with $ 25,440.00<br>
+3333 with $ -39,870.00<br>
+4444 with $ 6,000.00<br>
+5555 with $ 6,000.00
